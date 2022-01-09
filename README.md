@@ -11,3 +11,6 @@ I use a lot of tech stacks like
 - CI/CD, GitLab, TeamCity, Jenkins, Octopus, GitOps • ElasticSearch, Fluend, FluentBit, Kibana
 - Prometheus, Alertmanager, Grafana
 - OOP, DDD, CQRS, SOLID
+
+
+https://gitlab.com/ferhatcandas
